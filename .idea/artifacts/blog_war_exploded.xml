@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="blog:war exploded">
-    <output-path>$PROJECT_DIR$/target/blog</output-path>
+  <artifact type="exploded-war" build-on-make="true" name="blog:war exploded">
+    <output-path>F:/Program Files/apache-tomcat-8.0.33/webapps/blog</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
